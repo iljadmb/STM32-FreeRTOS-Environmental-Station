@@ -1,0 +1,5 @@
+Debug/
+Release/
+.metadata/
+*.launch
+.DS_Store
